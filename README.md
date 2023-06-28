@@ -63,3 +63,4 @@ Es una persona muy trabajadora y muy exitosa. Trabajó mucho para tener su empre
 **Negativo:** En algunas páginas de la barra de navegación uno puede ver que las fotos de banner no hacen buen contraste con los links de la barra. Además, no hace falta saber que el puntaje de performance en google lighthouse es bajo para darse cuenta de que la página funciona lento. La barra de navegación lateral no está bien ejecutada, ya que se sale de la paleta de colores y muestra las opciones de una forma poco inteligente, es decir, hacia el lado, y no hacia abajo. 
 
 ## **REFERENTES**
+![Sin-título-1](https://github.com/tbravofr/Portafolio/assets/127959171/f88cb75b-8ef7-45b6-aada-8fc624ef8310)
