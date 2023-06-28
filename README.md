@@ -1,4 +1,4 @@
-# TBF.cl
+<img width="1436" alt="Captura de pantalla 2023-06-28 a la(s) 12 21 08" src="https://github.com/tbravofr/Portafolio/assets/127959171/cdf30c69-5b8a-4c60-8dc7-8105fcfde5ba"># TRINIDADBF.cl
 ## **OBJETIVO** 
 
 Mostrar mis trabajos de diseño con el fin de encontrar oportunidades y clientes nuevos. Además, un portafolio en forma de página web tiene un alcance más profesional y serio, especialmente cuando se trata de diseño de páginas web. Finalmente, es una forma más libre de ordenar y editar el contenido expuesto.
@@ -33,6 +33,8 @@ Es una persona muy trabajadora y muy exitosa. Trabajó mucho para tener su empre
 
 ### **1. Miel Café Design**
 
+<img width="1437" alt="Captura de pantalla 2023-06-28 a la(s) 12 20 15" src="https://github.com/tbravofr/Portafolio/assets/127959171/bbe495f2-9fbc-416f-90af-0aad3feaa2a6">
+
 **Fuente:** https://www.mielcafedesign.com/services/full-branding-web-design/
 
 **Positivo:** La navegación es fácil e intuitiva. El diseño es atractivo y limpio. La información está bien jerarquizada y completa, apoyado de imagenes que le dan un toque más cercano y personal.
@@ -42,6 +44,8 @@ Es una persona muy trabajadora y muy exitosa. Trabajó mucho para tener su empre
 
 ### **2. Freaktools**
 
+<img width="1436" alt="Captura de pantalla 2023-06-28 a la(s) 12 20 51" src="https://github.com/tbravofr/Portafolio/assets/127959171/7f1297a3-28fd-47e7-b774-780d6f9ef633">
+
 **Fuente:** https://freaktools.cl/?gclid=CjwKCAjw1YCkBhAOEiwA5aN4ATAUFdGcX0R5N2jrGLsbv2m1OVXPK3V_0lYMJzYGdq__2YMlBNg0RBoCUV4QAvD_BwE
 
 **Positivo:** Muestran inmediatamente trabajos y diseños en el banner principal de la página, por lo que es fácil hacerse una idea del contenido del resto de la página. Es fácil de navegar, ya que está todo en la barra de navegación principal y tienen una gráfica atractiva y formal. Cuando uno baja en el 'landing page', uno puede ver toda la información disponible ordenada y la selección de fotos le da un aspecto muy profesional.
@@ -50,8 +54,12 @@ Es una persona muy trabajadora y muy exitosa. Trabajó mucho para tener su empre
 
 ### **3. AnimalFlair**
 
+<img width="1436" alt="Captura de pantalla 2023-06-28 a la(s) 12 21 08" src="https://github.com/tbravofr/Portafolio/assets/127959171/3ab0bffc-90f3-4776-a10a-b3d162920633">
+
 **Fuente:** https://animalflair.com/portafolio/
 
 **Positivo:** Es una página con una gráfica muy bien trabajada, tiene la información accesible y bien jerarquizada. 
 
 **Negativo:** En algunas páginas de la barra de navegación uno puede ver que las fotos de banner no hacen buen contraste con los links de la barra. Además, no hace falta saber que el puntaje de performance en google lighthouse es bajo para darse cuenta de que la página funciona lento. La barra de navegación lateral no está bien ejecutada, ya que se sale de la paleta de colores y muestra las opciones de una forma poco inteligente, es decir, hacia el lado, y no hacia abajo. 
+
+## **REFERENTES**
