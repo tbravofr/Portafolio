@@ -1,4 +1,4 @@
-<img width="1436" alt="Captura de pantalla 2023-06-28 a la(s) 12 21 08" src="https://github.com/tbravofr/Portafolio/assets/127959171/cdf30c69-5b8a-4c60-8dc7-8105fcfde5ba"># TRINIDADBF.cl
+# TRINIDADBF.cl
 ## **OBJETIVO** 
 
 Mostrar mis trabajos de diseño con el fin de encontrar oportunidades y clientes nuevos. Además, un portafolio en forma de página web tiene un alcance más profesional y serio, especialmente cuando se trata de diseño de páginas web. Finalmente, es una forma más libre de ordenar y editar el contenido expuesto.
