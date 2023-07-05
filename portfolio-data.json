@@ -1,0 +1,121 @@
+{
+  "portfolioItems": [
+    {
+      "id": 1,
+      "title": "LIBRO EDITORIAL",
+      "images": [
+        "assets/img/portfolio/portfolio-details-1.jpg",
+        "assets/img/portfolio/portfolio-details-2.jpg",
+        "assets/img/portfolio/portfolio-details-3.jpg",
+          "assets/img/portfolio/portfolio-details-4.jpg"
+      ],
+      "category": "Diseño editorial",
+      "motive": "Proyecto universitario",
+      "date": "2022",
+      "technique": "Cámara fotográfica e InDesign",
+      "description": "Este libro llamado ‘La Ruta de los Quinientos Pesos’ y diseñado por mi es parte de una colección de 19 libros denominada Santiago Fracturado, donde se exponen diversas situaciones vinculadas a ese concepto, yo elegí el tema ‘Arte Callejero’. Santiago Fracturado es un proyecto editorial dirigido por Ximena Ulibarri y Francisca Castillo ayudante, que corresponde al Taller Mercado I, Escuela de Diseño UC. Segundo Semestre, 2022."
+    },
+    {
+      "id": 2,
+      "title": "DIBUJOS",
+      "images": [
+        "assets/img/portfolio/portfolio-details-5.jpg",
+        "assets/img/portfolio/portfolio-details-6.jpg",
+        "assets/img/portfolio/portfolio-details-7.jpg"
+      ],
+      "category": "Dibujo análogo",
+      "motive": "Pedidos y proyectos universitarios",
+      "date": "2022 - 2023",
+      "technique": "Lápiz grafito",
+      "description": "Estos son algunos de los dibujos que he hecho a lo largo de los años. Hoy en día recibo varios pedidos de retratos y tardo alrededor de un mes. Uso una foto de referencia y luego lo dibujo en papel con las medidas acordadas."
+    },
+          {
+      "id": 3,
+      "title": "ILUSTRACIÓN DIGITAL",
+      "images": [
+        "assets/img/portfolio/portfolio-details-8.jpg"
+      ],
+      "category": "Arte digital",
+      "motive": "Proyectos personales y universitarios",
+      "date": "2022 - 2023",
+      "technique": "Procreate e Illustrator",
+      "description": "La ilustración digital es algo relativamente nuevo para mí. Desde que tengo los medios para hacerlo, de a poco he ido aprendiendo y expandiendo mis conocimientos al respecto. Puedo trabajar con vectores, pixeles o ambos."
+    },
+          {
+      "id": 4,
+      "title": "EMPRESA ZAZÜ",
+      "images": [
+        "assets/img/portfolio/portfolio-details-8.jpg"
+      ],
+      "category": "Diseño gráfico",
+      "motive": "Trabajo",
+      "date": "Febrero 2022 a Febrero 2023",
+      "technique": "De todo un poco",
+      "description": "Zazü es una empresa de joyas chilena y es donde hice mi práctica profesional de oficina, pero luego me quedé trabajando ahí por un año en total. Aprendí mucho sobre marketing digital, incluyendo plataformas como shopify o klaviyo, trabajé en sesiones de fotos, desde la planificación hasta la edición, diseñé contenido para las redes sociales, etc."
+    },
+          {
+      "id": 5,
+      "title": "EMPRESA AMAREA",
+      "images": [
+        "assets/img/portfolio/portfolio-details-8.jpg"
+      ],
+      "category": "Diseño gráfico",
+      "motive": "Trabajo",
+      "date": "Diciembre 2022 hasta el presente",
+      "technique": "De todo un poco",
+      "description": "Amarea es una empresa que vende productos de y con cochayuyo. Trabajan con comunidades algueras, generando trabajo y velando por el cuidado del medio ambiente. Acá es donde hice mi práctica profesional de servicio, pero luego me quedé trabajando ahí y hoy soy la diseñadora de la empresa. Hice el rediseño del catálogo, packaging de hamburguesa, suplementos, cajas, etc., gráficas para la página web, planificación de sesiones de fotos, etc."
+    },
+          {
+      "id": 6,
+      "title": "FOTOGRAFÍA",
+      "images": [
+        "assets/img/portfolio/portfolio-details-8.jpg"
+      ],
+      "category": "Fotografía",
+      "motive": "Proyectos personales",
+      "date": "2022 - 2023",
+      "technique": "Cámara fotográfica",
+      "description": "La fotografía es un hobbie mio que me apasiona mucho. Me encanta tener la posibilidad de grabar un momento para siempre, ya sean paisajes, personas, animales, etc. También he tomado fotos para empresas donde he trabajado, pero hacerlo por mi cuenta es mucho más gratificante."
+    },
+          {
+      "id": 7,
+      "title": "Portfolio Item 2",
+      "images": [
+        "assets/img/portfolio/portfolio-details-8.jpg"
+      ],
+      "category": "Graphic Design",
+      "motive": "XYZ Company",
+      "date": "15 May, 2021",
+      "technique": "www.example2.com",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in felis ut nunc malesuada pulvinar. Sed pellentesque dui elit, vel lacinia nulla tincidunt ut."
+    },
+          {
+      "id": 8,
+      "title": "Portfolio Item 2",
+      "images": [
+        "assets/img/portfolio/portfolio-details-4.jpg",
+        "assets/img/portfolio/portfolio-details-5.jpg",
+        "assets/img/portfolio/portfolio-details-6.jpg"
+      ],
+      "category": "Graphic Design",
+      "motive": "XYZ Company",
+      "date": "15 May, 2021",
+      "technique": "www.example2.com",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in felis ut nunc malesuada pulvinar. Sed pellentesque dui elit, vel lacinia nulla tincidunt ut."
+    },
+          {
+      "id": 9,
+      "title": "Portfolio Item 2",
+      "images": [
+        "assets/img/portfolio/portfolio-details-4.jpg",
+        "assets/img/portfolio/portfolio-details-5.jpg",
+        "assets/img/portfolio/portfolio-details-6.jpg"
+      ],
+      "category": "Graphic Design",
+      "motive": "XYZ Company",
+      "date": "15 May, 2021",
+      "technique": "www.example2.com",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in felis ut nunc malesuada pulvinar. Sed pellentesque dui elit, vel lacinia nulla tincidunt ut."
+    }
+  ]
+}
